@@ -1,0 +1,23 @@
+{
+  "name": "devsync-docs",
+  "version": "0.0.0",
+  "description": "Documentation for Devsync",
+  "main": " ",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickolasBoyer/devsync-docs.git"
+  },
+  "author": "Will Willems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickolasBoyer/devsync-docs/issues"
+  },
+  "homepage": "https://docs.devsync.co",
+  "devDependencies": {
+    "vuepress": "^1.2.0"
+  }
+}
