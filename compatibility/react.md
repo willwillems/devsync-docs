@@ -6,3 +6,6 @@ By default, using `@zeit/next-css`, sourcemaps are not correctly generated.
 
 ## Gatsby
 Fully working using CSS files (like `404.css`).
+
+## Styled Components
+Does not support sourcemaps yet, there is currently an [open pull request](https://github.com/styled-components/babel-plugin-styled-components/pull/180/) to add sourcemaps to styled components.
