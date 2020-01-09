@@ -19,5 +19,8 @@
   "homepage": "https://docs.devsync.co",
   "devDependencies": {
     "vuepress": "^1.2.0"
+  },
+  "dependencies": {
+    "markdown-it-html5-embed": "^1.0.0"
   }
 }
