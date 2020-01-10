@@ -20,7 +20,7 @@ You can start the extension either by running the `Devsync: Start` command in yo
 
 When you start the extension your editor should notify you with the notification: "Devsync started". When the Chrome extension connects you should see a notification with the text: "Browser connected to extension".
 
-### Links:
+### Download links
 - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=Devsync.devsync-vsc)
 
 ## Using Devsync
