@@ -74,4 +74,4 @@ The select overlay should automatically be activated when the chrome extension i
 - `SHIFT + W`: Go up one element in the DOM tree.
 - `SHIFT + S`: Go down one element in the DOM tree.
 - `SHIFT + A`: Select the previous sibling of the element you're hovering.
-- `SHIFT + A`: Select the next sibling of the element you're hovering.
+- `SHIFT + D`: Select the next sibling of the element you're hovering.
