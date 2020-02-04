@@ -63,3 +63,15 @@ Selecting an input and filling in a value will automatically add a new CSS rule 
 ![Deleting properties](https://i.imgur.com/wVTQIrv.mp4 "Deleting CSS properties")
 
 Clicking on an input holding the `CNTRL`/`CMD` will remove the CSS property.
+
+### Selecting elements
+
+![Selecting elements](https://i.imgur.com/g8WIZ93.mp4 "Selecting DOM elements")
+
+The select overlay should automatically be activated when the chrome extension is opened from the devtools panel. Once the overlay is visible there are multiple shortcuts available:
+
+- `SHIFT + Q`: Toggles the visibility of the overlay.
+- `SHIFT + W`: Go up one element in the DOM tree.
+- `SHIFT + S`: Go down one element in the DOM tree.
+- `SHIFT + A`: Select the previous sibling of the element you're hovering.
+- `SHIFT + A`: Select the next sibling of the element you're hovering.
