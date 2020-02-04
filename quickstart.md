@@ -12,6 +12,13 @@ Once you've installed the Chrome extension it will become available trough the d
 
 It will automatically connect with the Devsync editor extension once it becomes available.
 
+**Important!**
+
+Once you activate the extension chrome will show you a "message" that "'Devsync Browser Extension' is debugging this browser". This looks like a status message which can be dismissed by clicking the X in the right corner but due to (reasonable) security concerns this shuts down the connection between the debugger and Devsync.
+
+![Devsync is debugging message](https://i.imgur.com/e2W7S0p.png)
+
+
 ## Editor extension
 
 Install the editor extension by searching for "Devsync" in your editor's marketplace and installing it.
