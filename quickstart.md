@@ -14,7 +14,7 @@ It will automatically connect with the Devsync editor extension once it becomes 
 
 **Important!**
 
-Once you activate the extension chrome will show you a "message" that "'Devsync Browser Extension' is debugging this browser". This looks like a status message which can be dismissed by clicking the X in the right corner but due to (reasonable) security concerns this shuts down the connection between the debugger and Devsync.
+Once you activate the extension Chrome will show you a "message" that "'Devsync Browser Extension' is debugging this browser". This *looks like* a status message that can be dismissed by clicking the X in the right corner but cannot due to (reasonable) security concerns. Dismissing this "message" shuts down the connection between the debugger and Devsync.
 
 ![Devsync is debugging message](https://i.imgur.com/e2W7S0p.png)
 
