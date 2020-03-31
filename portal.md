@@ -32,6 +32,12 @@ Your editor is now connected to Portal and portal will try to find matching CSS 
 - `ALT+W/A/S/D`: Navigate through the DOM
 - `ALT-(1/2/3/4/5/etc.)`: To select one of the tabs
 
+## Compatibility and Support
+
+At this time Portal supports any style syntax that is similar to CSS, this includes LESS and SCSS but not SASS. Additionally it supports nesting selectors using the ampersand syntax.
+
+Furthermore Portal currently looks for CSS class definitions in your `.vue`, `.svelte`, `.css`, `.scss`, `.pcss`, `.postcss`, `.js` and `.jsx` files.
+
 ## Troubleshooting
 
 ### I'm getting bundled/minified CSS in Portal instead of my source files
