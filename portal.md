@@ -30,6 +30,7 @@ Your editor is now connected to Portal and portal will try to find matching CSS 
 - `ALT`: Hold to highlight the currently selected element
 - `ALT+SPACE`: Minimise
 - `ALT+W/A/S/D`: Navigate through the DOM
+- `ALT-(1/2/3/4/5/etc.)`: To select one of the tabs
 
 ## Troubleshooting
 
