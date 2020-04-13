@@ -31,6 +31,7 @@ Your editor is now connected to Portal and portal will try to find matching CSS 
 - `ALT+SPACE`: Minimise
 - `ALT+W/A/S/D`: Navigate through the DOM
 - `ALT-(1/2/3/4/5/etc.)`: To select one of the tabs
+- `ALT-Q/Z`: To navigate the matched sections in your editor
 
 ## Compatibility and Support
 
