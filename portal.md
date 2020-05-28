@@ -44,3 +44,10 @@ Furthermore Portal currently looks for CSS class definitions in your `.vue`, `.s
 ### I'm getting bundled/minified CSS in Portal instead of my source files
 
 You can exclude folders from Portal's search by going to VS Code's settings and adding it to Portal's "Exclude In File Search Glob" field. By default it's already excluding `dist` and `node_modules`.
+
+### The Portal in Chome is not opening
+
+It's likely the shortcut has not properly bound, you can navigate to `chrome://extensions/shortcuts` to fix this, we recommend you pick the CMD/CNTRL+SHIFT+D shortcut but you can pick anything you like. 
+
+![Extension shortcuts](https://i.imgur.com/gqcueYa.png)
+*Your Portal shortcuts section should look like this*
